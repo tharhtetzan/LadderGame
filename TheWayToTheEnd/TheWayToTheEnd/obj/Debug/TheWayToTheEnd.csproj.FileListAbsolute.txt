@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\bin\Debug\TheWayToTheEnd.exe.config
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\bin\Debug\TheWayToTheEnd.exe
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\bin\Debug\TheWayToTheEnd.pdb
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\obj\Debug\TheWayToTheEnd.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\obj\Debug\TheWayToTheEnd.Properties.Resources.resources
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\obj\Debug\TheWayToTheEnd.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\obj\Debug\TheWayToTheEnd.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\obj\Debug\TheWayToTheEnd.exe
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\obj\Debug\TheWayToTheEnd.pdb
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\obj\Debug\TheWayToTheEnd.MainMenu.resources
+C:\Users\Dell\source\repos\TheWayToTheEnd\TheWayToTheEnd\obj\Debug\TheWayToTheEnd.PVP.resources
